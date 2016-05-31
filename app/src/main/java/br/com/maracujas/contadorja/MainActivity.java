@@ -14,6 +14,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -23,20 +24,28 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.firebase.client.DataSnapshot;
-import com.firebase.client.Firebase;
-import com.firebase.client.FirebaseError;
-import com.firebase.client.ValueEventListener;
+//import com.firebase.client.DataSnapshot;
+//import com.firebase.client.Firebase;
+//import com.firebase.client.FirebaseError;
+//import com.firebase.client.ValueEventListener;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class MainActivity extends Activity {
 	private int pontuacao;
 	private String nomeArquivo = "pontuacao.txt";
-    Firebase mRef;
+	//DatabaseReference mRef;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		//mRef = FirebaseDatabase.getInstance().getReference();
+
 		if (savedInstanceState == null) {
 			pontuacao = 0;
 		} else {
@@ -150,7 +159,7 @@ public class MainActivity extends Activity {
 									// conteudo = conteudo + "\n";
 									fos.write(conteudo.getBytes());
 									fos.close();
-								mRef.setValue(conteudo);
+								//mRef.setValue(conteudo);
 								Toast.makeText(MainActivity.this, "Salvo Com Sucesso",Toast.LENGTH_SHORT).show();
 								} catch (FileNotFoundException e) {
 									Toast.makeText(MainActivity.this,
@@ -258,10 +267,11 @@ public class MainActivity extends Activity {
 
 	@Override
 	protected void onStart() {
-		super.onStart();
-		mRef = new Firebase("https://contadorja.firebaseio.com/Pontos");
-
-		mRef.addValueEventListener(new ValueEventListener() {
+		super.onStart();	}
+		//mRef = new Firebase("https://contadorja.firebaseio.com/Pontos");
+		//DatabaseReference ref = FirebaseDatabase.getInstance().getReferenceFromUrl("https://contadorja.firebaseio.com/Pontos");
+		//DatabaseReference ref = FirebaseDatabase.getInstance().getReference();
+		/*mRef.addValueEventListener(new ValueEventListener() {
 			@Override
 			public void onDataChange(DataSnapshot dataSnapshot) {
 				String numero = dataSnapshot.getValue(String.class);
@@ -282,10 +292,40 @@ public class MainActivity extends Activity {
 			}
 
 			@Override
-			public void onCancelled(FirebaseError firebaseError) {
+			public void onCancelled(DatabaseError databaseError) {
 
 			}
-		});
-	}
+		});*/
+
+		/*mRef.child("Pontos").addValueEventListener(new ValueEventListener() {
+			@Override
+			public void onDataChange(DataSnapshot dataSnapshot) {
+				String numero = dataSnapshot.getValue(String.class);
+
+
+
+
+				try {
+					FileOutputStream fos = openFileOutput(nomeArquivo, Context.MODE_PRIVATE);
+					fos.write(numero.getBytes());
+					fos.close();
+				} catch (FileNotFoundException e) {
+					Toast.makeText(MainActivity.this,
+							"Arquivo não encontrado.",
+							Toast.LENGTH_SHORT).show();
+				} catch (IOException e) {
+					Toast.makeText(MainActivity.this,
+							"Exceção de entrada/saída.",
+							Toast.LENGTH_SHORT).show();
+				}
+			}
+
+			@Override
+			public void onCancelled(DatabaseError databaseError) {
+
+			}
+		});*/
+
+
 }
     
