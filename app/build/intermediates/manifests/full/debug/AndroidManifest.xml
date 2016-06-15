@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.maracujas.contadorja"
-    android:versionCode="6"
+    android:versionCode="9"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="9"
+        android:minSdkVersion="16"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -32,12 +32,21 @@
     <application
         android:name="br.com.maracujas.contadorja.Contadorja"
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="br.com.maracujas.contadorja.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name" />
+        <activity
+            android:name="br.com.maracujas.contadorja.PlayerActivity"
+            android:label="@string/title_activity_player"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="br.com.maracujas.contadorja.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.LoginActionbar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -45,12 +54,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="br.com.maracujas.contadorja.PlayerActivity"
-            android:label="@string/title_activity_player" />
-        <activity
-            android:name="br.com.maracujas.contadorja.LoginActivity"
-            android:label="@string/title_activity_login" />
-        <activity android:name="br.com.maracujas.contadorja.SignUpActivity" />
+            android:name="br.com.maracujas.contadorja.SignUpActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
         <!--
  ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -59,7 +64,25 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name="br.com.maracujas.contadorja.ResetActivity" />
+        <activity
+            android:name="br.com.maracujas.contadorja.ResetActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="br.com.maracujas.contadorja.RemoveUserActivity"
+            android:label="@string/title_activity_remove_user"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="br.com.maracujas.contadorja.UpdateActivity"
+            android:label="@string/title_activity_update"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="br.com.maracujas.contadorja.UpdateLoginActivity"
+            android:label="@string/title_activity_update_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="br.com.maracujas.contadorja.UpdatePasswordActivity"
+            android:label="@string/title_activity_update_password"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
@@ -70,6 +93,77 @@
             android:authorities="br.com.maracujas.contadorja.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
+
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
+            android:theme="@style/FirebaseUI.Dialog" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+            android:theme="@style/FirebaseUI" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
+            android:theme="@style/FirebaseUI.Translucent" >
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

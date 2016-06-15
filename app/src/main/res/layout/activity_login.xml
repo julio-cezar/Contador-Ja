@@ -30,7 +30,20 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-           <!-- <android.support.design.widget.TextInputLayout -->
+          <!--  <ImageView
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/logo"
+                android:layout_marginTop="160dp"
+                android:layout_marginBottom="30dp"
+                android:gravity="center"
+                android:scaleType="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/firebase_chat"/>-->
+
+
+            <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
@@ -43,7 +56,11 @@
                     android:maxLines="1"
                     android:singleLine="true" />
 
-           <!-- </android.support.design.widget.TextInputLayout>-->
+           </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
 
             <EditText
                 android:id="@+id/password"
@@ -53,6 +70,9 @@
                 android:inputType="textPassword"
                 android:maxLines="1"
                 android:singleLine="true" />
+
+            </android.support.design.widget.TextInputLayout>
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

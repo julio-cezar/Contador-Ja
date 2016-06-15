@@ -7,6 +7,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 import br.com.maracujas.contadorja.R;
+import br.com.maracujas.contadorja.domain.User;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -14,6 +15,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -28,16 +30,19 @@ import android.widget.Toast;
 //import com.firebase.client.Firebase;
 //import com.firebase.client.FirebaseError;
 //import com.firebase.client.ValueEventListener;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 	private int pontuacao;
 	private String nomeArquivo = "pontuacao.txt";
 	//DatabaseReference mRef;
+	private FirebaseAuth mAuth;
+	private FirebaseAuth.AuthStateListener authStateListener;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -226,10 +231,25 @@ public class MainActivity extends Activity {
 
 		});
 
+		authStateListener = new FirebaseAuth.AuthStateListener() {
+			@Override
+			public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+
+				if( firebaseAuth.getCurrentUser() == null  ){
+					Intent intent = new Intent( MainActivity.this, LoginActivity.class );
+					startActivity( intent );
+					finish();
+				}
+			}
+		};
+
+		mAuth = FirebaseAuth.getInstance();
+		mAuth.addAuthStateListener( authStateListener );
+
 	}
 	
 	
-	@Override
+	/*@Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
        // getMenuInflater().inflate(R.menu.menus_java, menu);
@@ -245,25 +265,9 @@ public class MainActivity extends Activity {
     	utilitario.add(0, 4, 0, "Editar");
     	
     	return result;
-    }
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-    	switch(item.getItemId()){
-    	case 1: mensagemExibir("Configurações","Chamara a tela de configurações");break;
-    	case 2: mensagemExibir("Ranking","Chamará a tela de Raning");break;
-    	case 3: mensagemExibir("Sobre","Chamará a tela de Sobre");break;
+    }*/
 
-    	
-    	}
-    	return super.onOptionsItemSelected(item);
-    }
-    public void mensagemExibir(String titulo, String texto) {
-    	AlertDialog.Builder mensagem = new AlertDialog.Builder(MainActivity.this);
-    	mensagem.setTitle(titulo);
-    	mensagem.setMessage(texto);
-    	mensagem.setNeutralButton("OK", null);
-    	mensagem.show();
-    }
+
 
 	@Override
 	protected void onStart() {
@@ -326,6 +330,72 @@ public class MainActivity extends Activity {
 			}
 		});*/
 
+	@Override
+	protected void onDestroy() {
+		super.onDestroy();
+		//adapter.cleanup();
 
+		if( authStateListener != null ){
+			mAuth.removeAuthStateListener( authStateListener );
+		}
+	}
+	// MENU
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		User user = new User();
+
+		if( user.isSocialNetworkLogged( this ) ){
+			getMenuInflater().inflate(R.menu.menu_social_network_logged, menu);
+		}
+		else{
+			getMenuInflater().inflate(R.menu.menu, menu);
+		}
+		return true;
+	}
+
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		int id = item.getItemId();
+
+		if(id == R.id.action_update){
+			startActivity(new Intent(this, UpdateActivity.class));
+		}
+		else if(id == R.id.action_update_login){
+			startActivity(new Intent(this, UpdateLoginActivity.class));
+		}
+		else if(id == R.id.action_update_password){
+			startActivity(new Intent(this, UpdatePasswordActivity.class));
+		}
+		/*else if(id == R.id.action_link_accounts){
+			startActivity(new Intent(this, LinkAccountsActivity.class));
+		}*/
+		else if(id == R.id.action_remove_user){
+			startActivity(new Intent(this, RemoveUserActivity.class));
+		}
+		else if(id == R.id.action_logout){
+			FirebaseAuth.getInstance().signOut();
+			finish();
+		}
+
+		return super.onOptionsItemSelected(item);
+	}/*
+	@Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+    	switch(item.getItemId()){
+    	case 1: mensagemExibir("Configurações","Chamara a tela de configurações");break;
+    	case 2: mensagemExibir("Ranking","Chamará a tela de Raning");break;
+    	case 3: mensagemExibir("Sobre","Chamará a tela de Sobre");break;
+
+
+    	}
+    	return super.onOptionsItemSelected(item);
+    }
+    public void mensagemExibir(String titulo, String texto) {
+    	AlertDialog.Builder mensagem = new AlertDialog.Builder(MainActivity.this);
+    	mensagem.setTitle(titulo);
+    	mensagem.setMessage(texto);
+    	mensagem.setNeutralButton("OK", null);
+    	mensagem.show();
+    }*/
 }
     

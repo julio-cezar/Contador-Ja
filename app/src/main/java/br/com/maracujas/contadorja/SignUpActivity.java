@@ -77,7 +77,7 @@ public class SignUpActivity extends AutenticationComumActivity implements Databa
         user.setName( name.getText().toString() );
         user.setEmail( email.getText().toString() );
         user.setPassword( password.getText().toString() );
-        user.generateCryptPassword();
+
     }
     public void sendSignUpData( View view ){
         openProgressBar();

@@ -4,26 +4,27 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="98292075562378" >
+    timestamp="114199160410883"
+    token="2630117216996752122" >
 
     <task
         name="javac"
-        duration="4570" />
+        duration="11745" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3974" />
+        duration="5177" />
     <task
         name="verifier"
-        duration="3269" />
+        duration="428" />
 
     <artifact
         location="C:\Users\julio\Documents\Workspace\AndroidStudioProjects\maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="98292075562378" >
+    <build timestamp="114199160410883" >
         <artifact
             location="C:\Users\julio\Documents\Workspace\AndroidStudioProjects\maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

@@ -9,23 +9,18 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.Exclude;
 import com.google.firebase.database.ValueEventListener;
 
-import br.com.maracujas.contadorja.domain.util.CryptWithMD5;
 import br.com.maracujas.contadorja.domain.util.LibraryClass;
 
 /**
  * Created by julio on 5/29/2016.
  */
 public class User {
-    public static String TOKEN = "br.com.thiengo.thiengocalopsitafbexample.domain.User.TOKEN";
-    public static String ID = "br.com.thiengo.thiengocalopsitafbexample.domain.User.ID";
+    public static String PROVIDER = "br.com.maracujas.domain.User.PROVIDER";
 
-    @Exclude
     private String id;
     private String name;
     private String email;
-    @Exclude
     private String password;
-    @Exclude
     private String newPassword;
 
 
@@ -41,17 +36,10 @@ public class User {
         this.id = id;
     }
 
-    public void saveIdSP(Context context, String token ){
-        LibraryClass.saveSP( context, ID, token );
-    }
-
-    public void retrieveIdSP(Context context ){
-        this.id = LibraryClass.getSP( context, ID );
-    }
 
     public boolean isSocialNetworkLogged( Context context ){
-        String token = getTokenSP( context );
-        return( token.contains("facebook") || token.contains("google") || token.contains("twitter") );
+        String token = getProviderSP( context );
+        return( token.contains("facebook") || token.contains("google") || token.contains("twitter")|| token.contains("github")  );
     }
 
 
@@ -70,7 +58,11 @@ public class User {
         }
     }
 
-
+    public void setNameIfNull(String name) {
+        if( this.name == null ){
+            this.name = name;
+        }
+    }
 
     public String getEmail() {
         return email;
@@ -86,8 +78,14 @@ public class User {
         }
     }
 
+    public void setEmailIfNull(String email) {
+        if( this.email == null ){
+            this.email = email;
+        }
 
+    }
 
+    @Exclude
     public String getPassword() {
         return password;
     }
@@ -96,12 +94,10 @@ public class User {
         this.password = password;
     }
 
-    public void generateCryptPassword() {
-        password = CryptWithMD5.cryptWithMD5(password);
-    }
 
 
 
+    @Exclude
     public String getNewPassword() {
         return newPassword;
     }
@@ -110,17 +106,15 @@ public class User {
         this.newPassword = newPassword;
     }
 
-    public void generateCryptNewPassword() {
-        newPassword = CryptWithMD5.cryptWithMD5(newPassword);
+
+
+
+
+    public void saveProviderSP(Context context, String token ){
+        LibraryClass.saveSP( context, PROVIDER, token );
     }
-
-
-
-    public void saveTokenSP(Context context, String token ){
-        LibraryClass.saveSP( context, TOKEN, token );
-    }
-    public String getTokenSP(Context context ){
-        return( LibraryClass.getSP( context, TOKEN ) );
+    public String getProviderSP(Context context ){
+        return( LibraryClass.getSP( context, PROVIDER ) );
     }
 
 
@@ -156,13 +150,14 @@ public class User {
         }
     }
 
-    public void removeDB(){
+    public void removeDB( DatabaseReference.CompletionListener completionListener ){
+
         DatabaseReference firebase = LibraryClass.getFirebase().child("users").child( getId() );
-        firebase.setValue(null);
+        firebase.setValue(null, completionListener);
     }
 
+
     public void contextDataDB( Context context ){
-        retrieveIdSP( context );
         DatabaseReference firebase = LibraryClass.getFirebase().child("users").child( getId() );
 
         firebase.addListenerForSingleValueEvent( (ValueEventListener) context );

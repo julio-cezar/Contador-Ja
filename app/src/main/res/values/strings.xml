@@ -20,10 +20,27 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string name="update_profile">Atualizar profile</string>
     <string name="action_sign_up_short">Cadastro</string>
     <string name="action_sign_up_call">Cadastrar</string>
     <string name="action_reset_call">Recuperar acesso</string>
     <string name="reset_bt_label">Iniciar recuperação acesso</string>
     <string name="reset">Recuperar acesso</string>
+    <string name="remove_user">Remover conta</string>
+    <string name="password_info">Para prosseguir com a atualização informe abaixo sua senha.</string>
+    <string name="update_login">Atualizar login</string>
+    <string name="update_password">Atualizar senha</string>
+
+    <string name="prompt_new_password">Nova senha</string>
+
+    <string name="link_accounts">Link contas</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="title_activity_update_login">UpdateLoginActivity</string>
+    <string name="title_activity_update_password">UpdatePasswordActivity</string>
+    <string name="title_activity_remove_user">RemoveUserActivity</string>
 
 </resources>
