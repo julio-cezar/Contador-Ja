@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\julio\Documents\Workspace\AndroidStudioProjects\maracuja\ContadorJa\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\julio\Documents\Workspace\AndroidStudioProjects\maracuja\ContadorJa\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\src\debug\shaders"/></dataSet></merger>

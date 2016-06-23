@@ -33,8 +33,8 @@ public class RemoveUserActivity extends AppCompatActivity  implements ValueEvent
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_remove_user);
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+       // toolbar = (Toolbar) findViewById(R.id.toolbar);
+        //etSupportActionBar(toolbar);
         mAuth = FirebaseAuth.getInstance();
     }
 
@@ -45,7 +45,7 @@ public class RemoveUserActivity extends AppCompatActivity  implements ValueEvent
     }
 
     private void init(){
-        toolbar.setTitle( getResources().getString(R.string.remove_user) );
+        //toolbar.setTitle( getResources().getString(R.string.remove_user) );
         password = (EditText) findViewById(R.id.password);
 
         user = new User();

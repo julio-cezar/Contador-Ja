@@ -35,7 +35,7 @@ public class UpdateLoginActivity extends AppCompatActivity implements ValueEvent
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_login);
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
+      //  toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         mAuth = FirebaseAuth.getInstance();
     }
@@ -47,7 +47,7 @@ public class UpdateLoginActivity extends AppCompatActivity implements ValueEvent
     }
 
     private void init(){
-        toolbar.setTitle( getResources().getString(R.string.update_login) );
+       // toolbar.setTitle( getResources().getString(R.string.update_login) );
         newEmail = (AutoCompleteTextView) findViewById(R.id.email);
         password = (EditText) findViewById(R.id.password);
 

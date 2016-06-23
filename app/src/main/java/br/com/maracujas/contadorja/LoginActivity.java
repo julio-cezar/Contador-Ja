@@ -147,6 +147,7 @@ public class LoginActivity extends AutenticationComumActivity {
 
                         if( !task.isSuccessful() ){
                             showSnackbar("Login falhou");
+                            closeProgressBar();
                             return;
                         }
                     }

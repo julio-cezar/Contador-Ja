@@ -165,5 +165,6 @@
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
     <orderEntry type="library" exported="" name="customtabs-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="firebase-analytics-9.0.2" level="project" />
+    <orderEntry type="library" exported="" name="android-android-23" level="project" />
   </component>
 </module>

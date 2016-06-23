@@ -34,8 +34,8 @@ public class UpdatePasswordActivity extends AppCompatActivity implements ValueEv
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_password);
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        //toolbar = (Toolbar) findViewById(R.id.toolbar);
+        //setSupportActionBar(toolbar);
         mAuth = FirebaseAuth.getInstance();
     }
 
@@ -46,7 +46,7 @@ public class UpdatePasswordActivity extends AppCompatActivity implements ValueEv
     }
 
     private void init(){
-        toolbar.setTitle( getResources().getString(R.string.update_password) );
+        //toolbar.setTitle( getResources().getString(R.string.update_password) );
         newPassword = (EditText) findViewById(R.id.new_password);
         password = (EditText) findViewById(R.id.password);
 

@@ -24,7 +24,7 @@ public class UpdateActivity extends AppCompatActivity implements ValueEventListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update);
-            toolbar = (Toolbar) findViewById(R.id.toolbar);
+           // toolbar = (Toolbar) findViewById(R.id.toolbar);
             setSupportActionBar(toolbar);
     }
 
@@ -35,7 +35,7 @@ public class UpdateActivity extends AppCompatActivity implements ValueEventListe
     }
 
     private void init(){
-        toolbar.setTitle( getResources().getString(R.string.update_profile) );
+        //toolbar.setTitle( getResources().getString(R.string.update_profile) );
         name = (AutoCompleteTextView) findViewById(R.id.name);
 
         user = new User();
