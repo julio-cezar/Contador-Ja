@@ -43,4 +43,5 @@
     <string name="title_activity_update_password">UpdatePasswordActivity</string>
     <string name="title_activity_remove_user">RemoveUserActivity</string>
 
+    <string name="notification">notificações</string>
 </resources>

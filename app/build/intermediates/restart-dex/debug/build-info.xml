@@ -4,48 +4,30 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="139554438095034"
+    timestamp="387813469089221"
     token="2630117216996752122" >
 
     <task
         name="javac"
-        duration="2957" />
+        duration="11618" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="405" />
+        duration="3854" />
     <task
         name="verifier"
-        duration="57" />
+        duration="249" />
 
     <artifact
         location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="359480477456799" >
+    <build timestamp="387813469089221" >
         <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
     </build>
 
 </instant-run>

@@ -465,6 +465,7 @@
     <string name="missing_password_email_toast">Missing password or email</string>
     <string name="name_hint">First &amp; last name</string>
     <string name="next">Next</string>
+    <string name="notification">notificações</string>
     <string name="password_hint">Password</string>
     <string name="password_info">Para prosseguir com a atualização informe abaixo sua senha.</string>
     <string name="password_length">Strong passwords have at least %1$d characters and a mix of letters
