@@ -15,6 +15,17 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="log token" />
+    <Button
+        android:id="@+id/subscribeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="subscribe"
+        android:layout_below="@+id/logTokenButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="40dp" />
+
 
 
 </RelativeLayout>

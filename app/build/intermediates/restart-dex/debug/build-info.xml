@@ -4,30 +4,40 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="387813469089221"
+    timestamp="449919202882513"
     token="2630117216996752122" >
 
     <task
         name="javac"
-        duration="11618" />
+        duration="693" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3854" />
+        duration="0" />
     <task
         name="verifier"
-        duration="249" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="387813469089221" >
+    <build timestamp="449604433531945" >
         <artifact
             location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="449760721796149" >
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="449919202882513" >
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -18,6 +18,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -50,10 +51,19 @@ public class MainActivity extends AppCompatActivity {
     TextView resultadoTextView ;
     Button maisButton, menosButton, salvarButton, buscarButton, playerButton, mais1Button, menos1Button ;
 
+    private static final String TAG = "MyNotification";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        if (getIntent().getExtras() != null) {
+            for (String key : getIntent().getExtras().keySet()) {
+                String value = getIntent().getExtras().getString(key);
+                Log.d(TAG, "Key: " + key + " Value: " + value);
+            }
+        }
 
         mRef = FirebaseDatabase.getInstance().getReference();
 
