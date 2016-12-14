@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
-    },
-    {
         "merged": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+        "source": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\values-hy\\values-hy.xml",
+        "outputFile": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 290,
-                    "endOffset": 391
+                    "endColumn": 107,
+                    "endOffset": 208
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 290,
-                        "endOffset": 609
+                        "startOffset": 340,
+                        "endColumn": 107,
+                        "endOffset": 443
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 396,
-                    "endColumn": 136,
-                    "endOffset": 528
+                    "startOffset": 213,
+                    "endColumn": 196,
+                    "endOffset": 405
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 614,
-                        "endColumn": 136,
-                        "endOffset": 746
+                        "startOffset": 448,
+                        "endColumn": 196,
+                        "endOffset": 640
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 533,
-                    "endColumn": 196,
-                    "endOffset": 725
+                    "startOffset": 410,
+                    "endColumn": 135,
+                    "endOffset": 541
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 751,
-                        "endColumn": 196,
-                        "endOffset": 943
+                        "startOffset": 645,
+                        "endColumn": 135,
+                        "endOffset": 776
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 730,
-                    "endColumn": 135,
-                    "endOffset": 861
+                    "startOffset": 546,
+                    "endColumn": 109,
+                    "endOffset": 651
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 948,
-                        "endColumn": 135,
-                        "endOffset": 1079
+                        "startOffset": 781,
+                        "endColumn": 109,
+                        "endOffset": 886
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 866,
-                    "endColumn": 138,
-                    "endOffset": 1000
+                    "startOffset": 656,
+                    "endColumn": 221,
+                    "endOffset": 873
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1084,
-                        "endColumn": 138,
-                        "endOffset": 1218
+                        "startOffset": 891,
+                        "endColumn": 221,
+                        "endOffset": 1108
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 1005,
-                    "endColumn": 221,
-                    "endOffset": 1222
+                    "startOffset": 878,
+                    "endColumn": 222,
+                    "endOffset": 1096
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1223,
-                        "endColumn": 221,
-                        "endOffset": 1440
+                        "startOffset": 1113,
+                        "endColumn": 222,
+                        "endOffset": 1331
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1227,
-                    "endColumn": 222,
-                    "endOffset": 1445
+                    "startOffset": 1101,
+                    "endColumn": 137,
+                    "endOffset": 1234
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1445,
-                        "endColumn": 222,
-                        "endOffset": 1663
+                        "startOffset": 1336,
+                        "endColumn": 137,
+                        "endOffset": 1469
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1450,
-                    "endColumn": 137,
-                    "endOffset": 1583
+                    "startOffset": 1239,
+                    "endColumn": 141,
+                    "endOffset": 1376
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 137,
-                        "endOffset": 1801
+                        "startOffset": 1474,
+                        "endColumn": 141,
+                        "endOffset": 1611
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1588,
-                    "endColumn": 166,
-                    "endOffset": 1750
+                    "startOffset": 1381,
+                    "endColumn": 258,
+                    "endOffset": 1635
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1806,
-                        "endColumn": 166,
-                        "endOffset": 1968
+                        "startOffset": 343,
+                        "endColumn": 258,
+                        "endOffset": 597
                     }
                 }
             },
@@ -177,612 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1755,
-                    "endColumn": 124,
-                    "endOffset": 1875
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1973,
-                        "endColumn": 124,
-                        "endOffset": 2093
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1880,
-                    "endColumn": 178,
-                    "endOffset": 2054
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2098,
-                        "endColumn": 178,
-                        "endOffset": 2272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 2059,
-                    "endColumn": 119,
-                    "endOffset": 2174
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2277,
-                        "endColumn": 119,
-                        "endOffset": 2392
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 2179,
-                    "endColumn": 141,
-                    "endOffset": 2316
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2397,
-                        "endColumn": 141,
-                        "endOffset": 2534
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 2321,
-                    "endColumn": 207,
-                    "endOffset": 2524
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2539,
-                        "endColumn": 207,
-                        "endOffset": 2742
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 2529,
-                    "endColumn": 167,
-                    "endOffset": 2692
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2747,
-                        "endColumn": 167,
-                        "endOffset": 2910
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 2697,
-                    "endColumn": 167,
-                    "endOffset": 2860
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2915,
-                        "endColumn": 167,
-                        "endOffset": 3078
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2865,
-                    "endColumn": 131,
-                    "endOffset": 2992
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 3083,
-                        "endColumn": 131,
-                        "endOffset": 3210
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2997,
-                    "endColumn": 171,
-                    "endOffset": 3164
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3215,
-                        "endColumn": 171,
-                        "endOffset": 3382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 3169,
-                    "endColumn": 122,
-                    "endOffset": 3287
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3387,
-                        "endColumn": 122,
-                        "endOffset": 3505
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 3292,
-                    "endColumn": 258,
-                    "endOffset": 3546
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 258,
-                        "endOffset": 577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 3551,
+                    "startOffset": 1640,
                     "endColumn": 270,
-                    "endOffset": 3817
+                    "endOffset": 1906
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3510,
-                        "endColumn": 270,
-                        "endOffset": 3776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 3822,
-                    "endColumn": 130,
-                    "endOffset": 3948
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3781,
-                        "endColumn": 130,
-                        "endOffset": 3907
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 3953,
-                    "endColumn": 109,
-                    "endOffset": 4058
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3912,
-                        "endColumn": 109,
-                        "endOffset": 4017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 4063,
-                    "endColumn": 198,
-                    "endOffset": 4257
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 4022,
-                        "endColumn": 198,
-                        "endOffset": 4216
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 4262,
-                    "endColumn": 137,
-                    "endOffset": 4395
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4221,
-                        "endColumn": 137,
-                        "endOffset": 4354
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 4400,
-                    "endColumn": 220,
-                    "endOffset": 4616
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4359,
-                        "endColumn": 220,
-                        "endOffset": 4575
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 4621,
-                    "endColumn": 139,
-                    "endOffset": 4756
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4580,
-                        "endColumn": 139,
-                        "endOffset": 4715
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 4761,
-                    "endColumn": 195,
-                    "endOffset": 4952
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4720,
-                        "endColumn": 195,
-                        "endOffset": 4911
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 4957,
-                    "endColumn": 94,
-                    "endOffset": 5047
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4916,
-                        "endColumn": 94,
-                        "endOffset": 5006
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 5052,
-                    "endColumn": 96,
-                    "endOffset": 5144
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 5011,
-                        "endColumn": 96,
-                        "endOffset": 5103
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 5149,
-                    "endColumn": 110,
-                    "endOffset": 5255
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 5108,
-                        "endColumn": 110,
-                        "endOffset": 5214
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\values-hy\\values-hy.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 290,
-                    "endOffset": 391
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 290,
-                        "endOffset": 609
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 396,
-                    "endColumn": 136,
-                    "endOffset": 528
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 614,
-                        "endColumn": 136,
-                        "endOffset": 746
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 533,
-                    "endColumn": 196,
-                    "endOffset": 725
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 751,
-                        "endColumn": 196,
-                        "endOffset": 943
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 730,
-                    "endColumn": 135,
-                    "endOffset": 861
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 948,
-                        "endColumn": 135,
-                        "endOffset": 1079
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 866,
-                    "endColumn": 138,
-                    "endOffset": 1000
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1084,
-                        "endColumn": 138,
-                        "endOffset": 1218
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 1005,
-                    "endColumn": 221,
-                    "endOffset": 1222
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1223,
-                        "endColumn": 221,
-                        "endOffset": 1440
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 1227,
-                    "endColumn": 222,
-                    "endOffset": 1445
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1445,
-                        "endColumn": 222,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 1450,
-                    "endColumn": 137,
-                    "endOffset": 1583
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 137,
-                        "endOffset": 1801
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 1588,
-                    "endColumn": 166,
-                    "endOffset": 1750
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1806,
-                        "endColumn": 166,
-                        "endOffset": 1968
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1755,
-                    "endColumn": 124,
-                    "endOffset": 1875
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1973,
-                        "endColumn": 124,
-                        "endOffset": 2093
+                        "startOffset": 1616,
+                        "endColumn": 270,
+                        "endOffset": 1882
                     }
                 }
             },
@@ -790,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1880,
-                    "endColumn": 178,
-                    "endOffset": 2054
+                    "startOffset": 1911,
+                    "endColumn": 130,
+                    "endOffset": 2037
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 2098,
-                        "endColumn": 178,
-                        "endOffset": 2272
+                        "startOffset": 1887,
+                        "endColumn": 130,
+                        "endOffset": 2013
                     }
                 }
             },
@@ -809,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 2059,
-                    "endColumn": 119,
-                    "endOffset": 2174
+                    "startOffset": 2042,
+                    "endColumn": 109,
+                    "endOffset": 2147
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2277,
-                        "endColumn": 119,
-                        "endOffset": 2392
+                        "startOffset": 2018,
+                        "endColumn": 109,
+                        "endOffset": 2123
                     }
                 }
             },
@@ -828,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 2179,
-                    "endColumn": 141,
-                    "endOffset": 2316
+                    "startOffset": 2152,
+                    "endColumn": 198,
+                    "endOffset": 2346
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2397,
-                        "endColumn": 141,
-                        "endOffset": 2534
+                        "startOffset": 2128,
+                        "endColumn": 198,
+                        "endOffset": 2322
                     }
                 }
             },
@@ -847,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 2321,
-                    "endColumn": 207,
-                    "endOffset": 2524
+                    "startOffset": 2351,
+                    "endColumn": 137,
+                    "endOffset": 2484
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2539,
-                        "endColumn": 207,
-                        "endOffset": 2742
+                        "startOffset": 2327,
+                        "endColumn": 137,
+                        "endOffset": 2460
                     }
                 }
             },
@@ -866,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 2529,
-                    "endColumn": 167,
-                    "endOffset": 2692
+                    "startOffset": 2489,
+                    "endColumn": 220,
+                    "endOffset": 2705
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2747,
-                        "endColumn": 167,
-                        "endOffset": 2910
+                        "startOffset": 2465,
+                        "endColumn": 220,
+                        "endOffset": 2681
                     }
                 }
             },
@@ -885,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 2697,
-                    "endColumn": 167,
-                    "endOffset": 2860
+                    "startOffset": 2710,
+                    "endColumn": 139,
+                    "endOffset": 2845
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2915,
-                        "endColumn": 167,
-                        "endOffset": 3078
+                        "startOffset": 2686,
+                        "endColumn": 139,
+                        "endOffset": 2821
                     }
                 }
             },
@@ -904,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 2865,
-                    "endColumn": 131,
-                    "endOffset": 2992
+                    "startOffset": 2850,
+                    "endColumn": 195,
+                    "endOffset": 3041
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 3083,
-                        "endColumn": 131,
-                        "endOffset": 3210
+                        "startOffset": 2826,
+                        "endColumn": 195,
+                        "endOffset": 3017
                     }
                 }
             },
@@ -923,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2997,
-                    "endColumn": 171,
-                    "endOffset": 3164
+                    "startOffset": 3046,
+                    "endColumn": 94,
+                    "endOffset": 3136
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 3215,
-                        "endColumn": 171,
-                        "endOffset": 3382
+                        "startOffset": 3022,
+                        "endColumn": 94,
+                        "endOffset": 3112
                     }
                 }
             },
@@ -942,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 3169,
-                    "endColumn": 122,
-                    "endOffset": 3287
+                    "startOffset": 3141,
+                    "endColumn": 96,
+                    "endOffset": 3233
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3387,
-                        "endColumn": 122,
-                        "endOffset": 3505
+                        "startOffset": 3117,
+                        "endColumn": 96,
+                        "endOffset": 3209
                     }
                 }
             },
@@ -961,227 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 3292,
-                    "endColumn": 258,
-                    "endOffset": 3546
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 258,
-                        "endOffset": 577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 3551,
-                    "endColumn": 270,
-                    "endOffset": 3817
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3510,
-                        "endColumn": 270,
-                        "endOffset": 3776
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 3822,
-                    "endColumn": 130,
-                    "endOffset": 3948
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3781,
-                        "endColumn": 130,
-                        "endOffset": 3907
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 3953,
-                    "endColumn": 109,
-                    "endOffset": 4058
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3912,
-                        "endColumn": 109,
-                        "endOffset": 4017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 4063,
-                    "endColumn": 198,
-                    "endOffset": 4257
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 4022,
-                        "endColumn": 198,
-                        "endOffset": 4216
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 4262,
-                    "endColumn": 137,
-                    "endOffset": 4395
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4221,
-                        "endColumn": 137,
-                        "endOffset": 4354
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 4400,
-                    "endColumn": 220,
-                    "endOffset": 4616
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4359,
-                        "endColumn": 220,
-                        "endOffset": 4575
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 4621,
-                    "endColumn": 139,
-                    "endOffset": 4756
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4580,
-                        "endColumn": 139,
-                        "endOffset": 4715
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 4761,
-                    "endColumn": 195,
-                    "endOffset": 4952
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4720,
-                        "endColumn": 195,
-                        "endOffset": 4911
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 4957,
-                    "endColumn": 94,
-                    "endOffset": 5047
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4916,
-                        "endColumn": 94,
-                        "endOffset": 5006
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 5052,
-                    "endColumn": 96,
-                    "endOffset": 5144
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 5011,
-                        "endColumn": 96,
-                        "endOffset": 5103
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 5149,
+                    "startOffset": 3238,
                     "endColumn": 110,
-                    "endOffset": 5255
+                    "endOffset": 3344
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-hy\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-hy\\values.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 5108,
+                        "startOffset": 3214,
                         "endColumn": 110,
-                        "endOffset": 5214
+                        "endOffset": 3320
                     }
                 }
             }

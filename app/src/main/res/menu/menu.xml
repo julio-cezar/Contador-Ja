@@ -39,4 +39,9 @@
         android:orderInCategory="100"
         android:title="@string/logout"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/send_refreshed_token"
+        android:orderInCategory="100"
+        android:title="send refreshed token"
+        app:showAsAction="never" />
 </menu>

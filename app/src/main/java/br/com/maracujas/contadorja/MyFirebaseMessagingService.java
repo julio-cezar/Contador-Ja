@@ -12,6 +12,8 @@ import android.util.Log;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
+import java.util.Map;
+
 /**
  * Created by julio on 25/06/2016.
  */
@@ -33,25 +35,30 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         // message, here is where that should be initiated. See sendNotification method below.
         Log.d(TAG, "From: " + remoteMessage.getFrom());
         Log.d(TAG, "Notification Message Body: " + remoteMessage.getNotification().getBody());
-    }
-    // [END receive_message]
+        sendNotification(remoteMessage);
 
-    /**
-     * Create and show a simple notification containing the received FCM message.
-     *
-     * @param messageBody FCM message body received.
-     */
-    private void sendNotification(String messageBody) {
+        if (remoteMessage.getData() != null) {
+              //  Log.d(TAG, " Value: " + remoteMessage.getData().get("message"));
+            for (String key : remoteMessage.getData().keySet()){
+                String value = remoteMessage.getData().get(key);
+                Log.d(TAG, "Key: " + key + "; Value: " + value);
+            }
+
+        }
+    }
+
+    private void sendNotification(RemoteMessage remoteMessage) {
         Intent intent = new Intent(this, MainActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0 /* Request code */, intent,
                 PendingIntent.FLAG_ONE_SHOT);
 
         Uri defaultSoundUri= RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
+
         NotificationCompat.Builder notificationBuilder = new NotificationCompat.Builder(this)
                 .setSmallIcon(R.mipmap.ic_launcher)
-                .setContentTitle("FCM Message")
-                .setContentText(messageBody)
+                .setContentTitle(remoteMessage.getNotification().getTitle())
+                .setContentText(remoteMessage.getNotification().getBody())
                 .setAutoCancel(true)
                 .setSound(defaultSoundUri)
                 .setContentIntent(pendingIntent);

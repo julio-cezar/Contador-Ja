@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.maracujas.contadorja"
-    android:versionCode="10"
+    android:versionCode="14"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="16"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -98,10 +98,7 @@
         </service>
         <!-- [END firebase_iid_service] -->
         <activity android:name="br.com.maracujas.contadorja.NotificationActivity" />
-        <activity
-            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity android:name="br.com.maracujas.contadorja.MessageListActivity" />
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
@@ -110,86 +107,9 @@
             android:initOrder="100" />
 
         <activity
-            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
-            android:theme="@style/FirebaseUI.Dialog" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
-            android:theme="@style/FirebaseUI.Translucent" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
-            android:theme="@style/FirebaseUI.Translucent" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
-            android:theme="@style/FirebaseUI" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
-            android:theme="@style/FirebaseUI.Translucent" >
-        </activity>
-        <activity
-            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
-            android:theme="@style/FirebaseUI.Translucent" >
-        </activity>
-        <activity
-            android:name="com.facebook.FacebookActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:label="@string/app_name"
-            android:theme="@style/FirebaseUI.Translucent" />
-        <activity
-            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-            android:excludeFromRecents="true"
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        <!--
-Service handling Google Sign-In user revocation. For apps that do not integrate with
-            Google Sign-In, this service will never be started.
-        -->
-        <service
-            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-            android:exported="true"
-            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-        <!--
- FirebaseMessagingService performs security checks at runtime,
-             no need for explicit permissions despite exported="true"
-        -->
-        <service
-            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-            android:exported="true" >
-            <intent-filter android:priority="-500" >
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
 
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
@@ -221,11 +141,107 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             </intent-filter>
         </service>
 
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
+            android:label="@string/title_confirm_recover_password_activity"
+            android:theme="@style/FirebaseUI.Dialog" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+            android:label="@string/title_recover_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+            android:label="@string/title_register_email_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
+            android:label="@string/title_sign_in_no_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
+            android:label="@string/title_sign_in_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
+            android:label="@string/title_welcome_back_idp_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
+            android:label="@string/title_welcome_back_password_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/facebook_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-            android:enabled="true" >
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
             <intent-filter>
-                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
             </intent-filter>
         </receiver>
 

@@ -44,4 +44,8 @@
     <string name="title_activity_remove_user">RemoveUserActivity</string>
 
     <string name="notification">notificações</string>
+
+    <string name="FCM_PREF">br.com.maracujas.contadorja.fcm_pref</string>
+    <string name="FCM_TOKEN">br.com.maracujas.contadorja.fcm_token</string>
+
 </resources>

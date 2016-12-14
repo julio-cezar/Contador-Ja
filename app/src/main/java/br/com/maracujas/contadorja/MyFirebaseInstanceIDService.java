@@ -1,5 +1,7 @@
 package br.com.maracujas.contadorja;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
@@ -39,5 +41,10 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
      */
     private void sendRegistrationToServer(String token) {
         // Add custom implementation, as needed.
+        SharedPreferences sharedPreferences = getApplicationContext().getSharedPreferences(getString(R.string.FCM_PREF), Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString(getString(R.string.FCM_TOKEN),token);
+        editor.commit();
+
     }
 }

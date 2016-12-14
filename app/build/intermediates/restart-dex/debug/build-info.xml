@@ -3,41 +3,78 @@
     abi="armeabi-v7a,armeabi"
     api-level="23"
     density="xxhdpi"
-    format="7"
-    timestamp="449919202882513"
-    token="2630117216996752122" >
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2420721309598958"
+    token="4268950702269968381"
+    verifier="FIELD_REMOVED" >
 
     <task
         name="javac"
-        duration="693" />
+        duration="2328" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="654" />
     <task
         name="verifier"
-        duration="0" />
+        duration="164" />
 
     <artifact
-        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\res\resources-debug.ap_"
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
         type="RESOURCES" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
 
-    <build timestamp="449604433531945" >
+    <build
+        timestamp="2419957268101693"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="449760721796149" >
+    <build
+        timestamp="2420721309598958"
+        verifier="FIELD_REMOVED" >
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
         <artifact
             location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
-    </build>
-    <build timestamp="449919202882513" >
-        <artifact
-            location="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

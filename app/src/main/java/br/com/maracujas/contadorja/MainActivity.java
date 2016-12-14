@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.util.HashMap;
 import java.util.Map;
 
 import br.com.maracujas.contadorja.R;
@@ -12,19 +13,25 @@ import br.com.maracujas.contadorja.domain.User;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
+import android.support.annotation.StringRes;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.SubMenu;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -32,6 +39,11 @@ import android.widget.Toast;
 //import com.firebase.client.Firebase;
 //import com.firebase.client.FirebaseError;
 //import com.firebase.client.ValueEventListener;
+import com.android.volley.AuthFailureError;
+import com.android.volley.Request;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
@@ -48,22 +60,19 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener authStateListener;
 
-    TextView resultadoTextView ;
-    Button maisButton, menosButton, salvarButton, buscarButton, playerButton, mais1Button, menos1Button ;
+    TextView resultadoTextView,descContagemTextView;
+    Button maisButton, menosButton, salvarButton, buscarButton, historicoAmigoButton, mais1Button, menos1Button, myMessagensButton ;
+    ImageButton editarTextoBT;
+    private static final String TAG = "main#tag";
 
-    private static final String TAG = "MyNotification";
+    String app_server_url = "http://192.168.6.102/fcmtest/fcm_insert.php";
+    String token;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        if (getIntent().getExtras() != null) {
-            for (String key : getIntent().getExtras().keySet()) {
-                String value = getIntent().getExtras().getString(key);
-                Log.d(TAG, "Key: " + key + " Value: " + value);
-            }
-        }
 
         mRef = FirebaseDatabase.getInstance().getReference();
 
@@ -75,9 +84,22 @@ public class MainActivity extends AppCompatActivity {
 
         initiateViews();
         initiateListeners();
+        intentData(getIntent());
 
         mAuth = FirebaseAuth.getInstance();
         mAuth.addAuthStateListener(authStateListener);
+
+    }
+
+    public void intentData(Intent intent){
+        if(intent == null || intent.getExtras() == null){
+            Log.d(TAG,"nada");
+            return;
+        }
+        for (String key : getIntent().getExtras().keySet()) {
+            String value = getIntent().getExtras().getString(key);
+            Log.d(TAG, "Key: " + key + "; Value: " + value);
+        }
     }
 
     void initiateViews(){
@@ -87,9 +109,14 @@ public class MainActivity extends AppCompatActivity {
          menosButton = (Button) this.findViewById(R.id.menosButton);
          salvarButton = (Button) this.findViewById(R.id.salvarButton);
          buscarButton = (Button) this.findViewById(R.id.buscarButton);
-         playerButton = (Button) this.findViewById(R.id.playerButton);
+         historicoAmigoButton = (Button) this.findViewById(R.id.historicoAmigoButton);
          mais1Button = (Button) this.findViewById(R.id.mais1bt);
          menos1Button = (Button) this.findViewById(R.id.menos1Bt);
+         myMessagensButton = (Button) this.findViewById(R.id.myMessagesButton);
+        editarTextoBT = (ImageButton)this.findViewById(R.id.bt_editTexto);
+        descContagemTextView =  (TextView) this.findViewById(R.id.TvDescContagens);
+
+
     }
 
     @Override
@@ -125,6 +152,17 @@ public class MainActivity extends AppCompatActivity {
                                 "Exceção de entrada/saída.",
                                 Toast.LENGTH_SHORT).show();
                     }
+                }
+                if (map.get("name") != null) {
+                    String name = (String) map.get("name");
+                    SharedPreferences sharedPref = getApplicationContext().getSharedPreferences("MyPref",Context.MODE_PRIVATE);
+                    SharedPreferences.Editor editor = sharedPref.edit();
+                    editor.putString("user_name", name);
+                    editor.commit();
+                }
+                if (map.get("desc_contagem") != null) {
+                    String descContS = (String) map.get("desc_contagem");
+                    descContagemTextView.setText(descContS);
                 }
             }
 
@@ -178,6 +216,36 @@ public class MainActivity extends AppCompatActivity {
         } else if (id == R.id.action_logout) {
             FirebaseAuth.getInstance().signOut();
             finish();
+        }
+        else if (id == R.id.send_refreshed_token) {
+            SharedPreferences sharedPreferences = getApplicationContext().getSharedPreferences(getString(R.string.FCM_PREF), Context.MODE_PRIVATE);
+            token = sharedPreferences.getString(getString(R.string.FCM_TOKEN), "");
+            StringRequest stringRequest = new StringRequest(Request.Method.POST, app_server_url,
+                    new Response.Listener<String>() {
+                        @Override
+                        public void onResponse(String response) {
+
+                        }
+                    }, new Response.ErrorListener() {
+                        @Override
+                        public void onErrorResponse(VolleyError error) {
+
+                        }
+            })
+            {
+                @Override
+                protected Map<String, String> getParams() throws AuthFailureError {
+                    Map<String, String> params = new HashMap<String, String>();
+                    params.put("fcm_token", token);
+                    Log.d(TAG, "Refreshed token: " + token);
+
+                    return params;
+                }
+            };
+
+            MySingleton.getmInstance(MainActivity.this).addToRequestQueue(stringRequest);
+
+
         }
 
         return super.onOptionsItemSelected(item);
@@ -331,13 +399,70 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        playerButton.setOnClickListener(new Button.OnClickListener() {
+        historicoAmigoButton.setOnClickListener(new Button.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(MainActivity.this, PlayerActivity.class);
                 startActivity(i);
 
             }
+
+        });
+
+        myMessagensButton.setOnClickListener(new Button.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this, MessageListActivity.class);
+                startActivity(i);
+
+            }
+
+        });
+        editarTextoBT.setOnClickListener(new Button.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // get prompts.xml view
+                LayoutInflater li = LayoutInflater.from(MainActivity.this);
+                View promptsView = li.inflate(R.layout.edit_main_texto_dialog, null);
+
+                AlertDialog.Builder alertBuilder = new AlertDialog.Builder(
+                        MainActivity.this);
+                // set prompts.xml to alertdialog builder
+                alertBuilder.setView(promptsView);
+                final EditText userInput = (EditText) promptsView
+                        .findViewById(R.id.EtUserInput);
+
+                // set dialog message
+                alertBuilder
+                        .setCancelable(false)
+                        .setPositiveButton("OK",
+                                new DialogInterface.OnClickListener() {
+                                    public void onClick(DialogInterface dialog,int id) {
+                                        // get user input and set it to result
+                                        // edit text
+                                       // result.setText(userInput.getText());
+                                        mRef.child("users").child(mAuth.getCurrentUser().getUid()).child("desc_contagem").setValue(userInput.getText().toString());
+                                    }
+                                })
+                        .setNegativeButton("Cancel",
+                                new DialogInterface.OnClickListener() {
+                                    public void onClick(DialogInterface dialog,int id) {
+                                        dialog.cancel();
+                                    }
+                                });
+
+                // create alert dialog
+                Dialog dialog = alertBuilder.create();
+
+                // show it
+                dialog.show();
+
+            }
+
+
+
+
+
 
         });
 

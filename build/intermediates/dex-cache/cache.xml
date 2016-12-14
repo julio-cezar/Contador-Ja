@@ -1,3 +1,428 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.0_b3304de20e901bdd2a31175b2c6b133659b14e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_1af5af90f219d5f8859a4035fc750de602193211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.0_77f43f3ef2ff530c81ab8ff1e1fa010b702e1aaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_ea8bc86989e5511df84d83ed7769e51e45bfc407\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_79707136172f626f8a000938fdc432b6cfc57367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_c911057d8de8ec4f9f26563fc51318ed8c7b86c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_070700ec9dbcdfce453e46ec3ce0bb4e497fb6ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_935aeca6323a6fad961fb5994ee4450b09afdda5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_8dec79d4e7c26dcdbef2cbfb98fa5845a64313e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.0_eb1509789a3cc8bbf36319f56ac9c2322a20f33c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6a6e217c96ded9767e8eb6916bd6d8497263c57d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_c26f945a7f1cb0eb155f7ab66fcb59be7d965114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_a426e43d7bd50081c5107bcdb7c860218c3d80a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_b04b4fdb9f9b3bd6d60e2f65740f13618dcd0f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_879492949020a30b7e35ea6483e4bc1a972bd2b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca1423a0143e9b90e96051d6850f77bdf9af5221">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8a6b3b33745644d94a8dfcdc5d9c339d6a2bcdf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_cdf869579a35d21bb9f75d7f16bb0691f794063d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3cfec95c1ec1b71075fcd7fa0b9c64dc645d2596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5bf0f678a45ec34f598a08914c15b34f995932de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.0_7b88b58bdc311554261fdf22ac6fc6abc143a79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_c7fbe36304c386b431acf6fca6556ae7166ccab8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_1497ad7831c37b2d1d918f9048105c8ab3c5c603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.6.0_159d1beafa4490097ec53a9e03d40b795e188343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.0_a30924bd8804ec634b0173590551dcc96f3f41c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a53b7b940c90ee6d0d88f3ed7de8cceb75d4cba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.0_f227055f281d099e4a08356c9ea3175256b604a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.0_9237788869a36a8220c5e3b096a4219a6970d7f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.0_8f7b69564423044316756c0928123112611718ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.0_2a3748218425f4bda3761db63ae1ac77e3daccbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.0_08dfe2b6f2be1d27563f69e6286984c52b6d3347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.0_a5ab42df576fa5e9c43a6fce311725305e756ec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.0_c58136df768ec6368ff0f86d28829ac6b4d71a12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.0_f0b7dc2763fcc6f60ecbe25342c644ed9b176f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_18939adb0261b1889255d6eecc46f02eab8dabd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_6aec57a6f9da6e97daf5a5800e435e99aca1a25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16f6a83c08b51126a56be37b623571d424cbd6f5">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a4a5d8b08514b98536308f31cb8b6eeecb0c0570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_bb88cc032fe6da682571f611f763411e985a951f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_df5bbf4b0763fffc2b0924d2d1882071a02f13b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.0_4f0643716ec0cfc2bc101843da10725f4539715d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_912b5ecf8a46e710ca9176ff0f74d0e92618ff0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.0_5e8808402c5584f2d5e2f93ec497eff8f3f85873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.0_9b0af01b9f36fde9a85514a175090f2e8bc47f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.0_d59c48eb0dbf01cf113253fc14820a31705897e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.0_147e8f9455223c25e0717c61044c9f43f001cfcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.14.1_c6e9b4bc4e04ae3574c211237bfbe5e6dc0ab168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_b6ffeb14c6625c1cb0d918d3a5e8a538e54aa121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="C:\Users\julio\workspace\AndroidStudioProjects\Maracuja\ContadorJa\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.6.0_cec36018f7687366424c585582e22bfe5077d2a5\classes.dex" />
+    </item>
+
+</items>

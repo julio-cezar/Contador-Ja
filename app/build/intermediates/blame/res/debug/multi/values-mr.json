@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\values-mr\\values-mr.xml",
+        "outputFile": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 139,
-                    "endOffset": 240
+                    "endColumn": 178,
+                    "endOffset": 279
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 139,
-                        "endOffset": 190
+                        "endColumn": 178,
+                        "endOffset": 229
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 245,
+                    "startOffset": 284,
                     "endColumn": 110,
-                    "endOffset": 351
+                    "endOffset": 390
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 195,
+                        "startOffset": 234,
                         "endColumn": 110,
-                        "endOffset": 301
+                        "endOffset": 340
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 356,
+                    "startOffset": 395,
                     "endColumn": 115,
-                    "endOffset": 467
+                    "endOffset": 506
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 306,
+                        "startOffset": 345,
                         "endColumn": 115,
-                        "endOffset": 417
+                        "endOffset": 456
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 472,
+                    "startOffset": 511,
                     "endColumn": 95,
-                    "endOffset": 563
+                    "endOffset": 602
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 422,
+                        "startOffset": 461,
                         "endColumn": 95,
-                        "endOffset": 513
+                        "endOffset": 552
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 568,
+                    "startOffset": 607,
                     "endColumn": 66,
-                    "endOffset": 630
+                    "endOffset": 669
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 518,
+                        "startOffset": 557,
                         "endColumn": 66,
-                        "endOffset": 580
+                        "endOffset": 619
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 635,
+                    "startOffset": 674,
                     "endColumn": 68,
-                    "endOffset": 699
+                    "endOffset": 738
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 585,
+                        "startOffset": 624,
                         "endColumn": 68,
-                        "endOffset": 649
+                        "endOffset": 688
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 704,
+                    "startOffset": 743,
                     "endColumn": 63,
-                    "endOffset": 763
+                    "endOffset": 802
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 654,
+                        "startOffset": 693,
                         "endColumn": 63,
-                        "endOffset": 713
+                        "endOffset": 752
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 768,
+                    "startOffset": 807,
                     "endColumn": 73,
-                    "endOffset": 837
+                    "endOffset": 876
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 718,
+                        "startOffset": 757,
                         "endColumn": 73,
-                        "endOffset": 787
+                        "endOffset": 826
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 842,
+                    "startOffset": 881,
                     "endColumn": 75,
-                    "endOffset": 913
+                    "endOffset": 952
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 792,
+                        "startOffset": 831,
                         "endColumn": 75,
-                        "endOffset": 863
+                        "endOffset": 902
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 918,
+                    "startOffset": 957,
                     "endColumn": 89,
-                    "endOffset": 1003
+                    "endOffset": 1042
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 868,
+                        "startOffset": 907,
                         "endColumn": 89,
-                        "endOffset": 953
+                        "endOffset": 992
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1008,
+                    "startOffset": 1047,
                     "endColumn": 77,
-                    "endOffset": 1081
+                    "endOffset": 1120
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 958,
+                        "startOffset": 997,
                         "endColumn": 77,
-                        "endOffset": 1031
+                        "endOffset": 1070
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1086,
+                    "startOffset": 1125,
                     "endColumn": 77,
-                    "endOffset": 1159
+                    "endOffset": 1198
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1036,
+                        "startOffset": 1075,
                         "endColumn": 77,
-                        "endOffset": 1109
+                        "endOffset": 1148
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1164,
+                    "startOffset": 1203,
                     "endColumn": 88,
-                    "endOffset": 1248
+                    "endOffset": 1287
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1114,
+                        "startOffset": 1153,
                         "endColumn": 88,
-                        "endOffset": 1198
+                        "endOffset": 1237
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1253,
+                    "startOffset": 1292,
                     "endColumn": 101,
-                    "endOffset": 1350
+                    "endOffset": 1389
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1203,
+                        "startOffset": 1242,
                         "endColumn": 101,
-                        "endOffset": 1300
+                        "endOffset": 1339
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1355,
+                    "startOffset": 1394,
                     "endColumn": 63,
-                    "endOffset": 1414
+                    "endOffset": 1453
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1305,
+                        "startOffset": 1344,
                         "endColumn": 63,
-                        "endOffset": 1364
+                        "endOffset": 1403
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1419,
+                    "startOffset": 1458,
                     "endColumn": 70,
-                    "endOffset": 1485
+                    "endOffset": 1524
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1369,
+                        "startOffset": 1408,
                         "endColumn": 70,
-                        "endOffset": 1435
+                        "endOffset": 1474
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1490,
+                    "startOffset": 1529,
                     "endColumn": 142,
-                    "endOffset": 1628
+                    "endOffset": 1667
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1440,
+                        "startOffset": 1479,
                         "endColumn": 142,
-                        "endOffset": 1578
+                        "endOffset": 1617
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1633,
-                    "endColumn": 258,
-                    "endOffset": 1887
+                    "startOffset": 1672,
+                    "endColumn": 109,
+                    "endOffset": 1777
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 258,
-                        "endOffset": 577
+                        "startOffset": 340,
+                        "endColumn": 109,
+                        "endOffset": 445
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1892,
-                    "endColumn": 126,
-                    "endOffset": 2014
+                    "startOffset": 1782,
+                    "endColumn": 195,
+                    "endOffset": 1973
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 582,
-                        "endColumn": 126,
-                        "endOffset": 704
+                        "startOffset": 450,
+                        "endColumn": 195,
+                        "endOffset": 641
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2019,
-                    "endColumn": 195,
-                    "endOffset": 2210
+                    "startOffset": 1978,
+                    "endColumn": 125,
+                    "endOffset": 2099
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 709,
-                        "endColumn": 195,
-                        "endOffset": 900
+                        "startOffset": 646,
+                        "endColumn": 125,
+                        "endOffset": 767
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2215,
-                    "endColumn": 125,
-                    "endOffset": 2336
+                    "startOffset": 2104,
+                    "endColumn": 113,
+                    "endOffset": 2213
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 905,
-                        "endColumn": 125,
-                        "endOffset": 1026
+                        "startOffset": 772,
+                        "endColumn": 113,
+                        "endOffset": 881
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2341,
-                    "endColumn": 123,
-                    "endOffset": 2460
+                    "startOffset": 2218,
+                    "endColumn": 204,
+                    "endOffset": 2418
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1031,
-                        "endColumn": 123,
-                        "endOffset": 1150
+                        "startOffset": 886,
+                        "endColumn": 204,
+                        "endOffset": 1086
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2465,
-                    "endColumn": 204,
-                    "endOffset": 2665
+                    "startOffset": 2423,
+                    "endColumn": 208,
+                    "endOffset": 2627
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1155,
-                        "endColumn": 204,
-                        "endOffset": 1355
+                        "startOffset": 1091,
+                        "endColumn": 208,
+                        "endOffset": 1295
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2670,
-                    "endColumn": 208,
-                    "endOffset": 2874
+                    "startOffset": 2632,
+                    "endColumn": 122,
+                    "endOffset": 2750
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1360,
-                        "endColumn": 208,
-                        "endOffset": 1564
+                        "startOffset": 1300,
+                        "endColumn": 122,
+                        "endOffset": 1418
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2879,
-                    "endColumn": 122,
-                    "endOffset": 2997
+                    "startOffset": 2755,
+                    "endColumn": 128,
+                    "endOffset": 2879
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 122,
-                        "endOffset": 1687
+                        "startOffset": 1423,
+                        "endColumn": 128,
+                        "endOffset": 1547
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3002,
-                    "endColumn": 185,
-                    "endOffset": 3183
+                    "startOffset": 2884,
+                    "endColumn": 236,
+                    "endOffset": 3116
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1692,
-                        "endColumn": 185,
-                        "endOffset": 1873
+                        "startOffset": 343,
+                        "endColumn": 236,
+                        "endOffset": 575
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3188,
-                    "endColumn": 117,
-                    "endOffset": 3301
+                    "startOffset": 3121,
+                    "endColumn": 247,
+                    "endOffset": 3364
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1878,
-                        "endColumn": 117,
-                        "endOffset": 1991
+                        "startOffset": 1552,
+                        "endColumn": 247,
+                        "endOffset": 1795
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3306,
-                    "endColumn": 167,
-                    "endOffset": 3469
+                    "startOffset": 3369,
+                    "endColumn": 119,
+                    "endOffset": 3484
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1996,
-                        "endColumn": 167,
-                        "endOffset": 2159
+                        "startOffset": 1800,
+                        "endColumn": 119,
+                        "endOffset": 1915
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3474,
-                    "endColumn": 120,
-                    "endOffset": 3590
+                    "startOffset": 3489,
+                    "endColumn": 112,
+                    "endOffset": 3597
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2164,
-                        "endColumn": 120,
-                        "endOffset": 2280
+                        "startOffset": 1920,
+                        "endColumn": 112,
+                        "endOffset": 2028
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3595,
-                    "endColumn": 128,
-                    "endOffset": 3719
+                    "startOffset": 3602,
+                    "endColumn": 184,
+                    "endOffset": 3782
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2285,
-                        "endColumn": 128,
-                        "endOffset": 2409
+                        "startOffset": 2033,
+                        "endColumn": 184,
+                        "endOffset": 2213
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3724,
-                    "endColumn": 187,
-                    "endOffset": 3907
+                    "startOffset": 3787,
+                    "endColumn": 128,
+                    "endOffset": 3911
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2414,
-                        "endColumn": 187,
-                        "endOffset": 2597
+                        "startOffset": 2218,
+                        "endColumn": 128,
+                        "endOffset": 2342
                     }
                 }
             },
@@ -595,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3912,
-                    "endColumn": 149,
-                    "endOffset": 4057
+                    "startOffset": 3916,
+                    "endColumn": 200,
+                    "endOffset": 4112
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2602,
-                        "endColumn": 149,
-                        "endOffset": 2747
+                        "startOffset": 2347,
+                        "endColumn": 200,
+                        "endOffset": 2543
                     }
                 }
             },
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4062,
-                    "endColumn": 172,
-                    "endOffset": 4230
+                    "startOffset": 4117,
+                    "endColumn": 135,
+                    "endOffset": 4248
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2752,
-                        "endColumn": 172,
-                        "endOffset": 2920
+                        "startOffset": 2548,
+                        "endColumn": 135,
+                        "endOffset": 2679
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4235,
-                    "endColumn": 130,
-                    "endOffset": 4361
+                    "startOffset": 4253,
+                    "endColumn": 185,
+                    "endOffset": 4434
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2925,
-                        "endColumn": 130,
-                        "endOffset": 3051
+                        "startOffset": 2684,
+                        "endColumn": 185,
+                        "endOffset": 2865
                     }
                 }
             },
@@ -652,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4366,
-                    "endColumn": 173,
-                    "endOffset": 4535
+                    "startOffset": 4439,
+                    "endColumn": 89,
+                    "endOffset": 4524
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 3056,
-                        "endColumn": 173,
-                        "endOffset": 3225
+                        "startOffset": 2870,
+                        "endColumn": 89,
+                        "endOffset": 2955
                     }
                 }
             },
@@ -671,973 +671,37 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4540,
-                    "endColumn": 122,
-                    "endOffset": 4658
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3230,
-                        "endColumn": 122,
-                        "endOffset": 3348
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4663,
-                    "endColumn": 236,
-                    "endOffset": 4895
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 236,
-                        "endOffset": 555
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4900,
-                    "endColumn": 247,
-                    "endOffset": 5143
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3353,
-                        "endColumn": 247,
-                        "endOffset": 3596
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5148,
-                    "endColumn": 119,
-                    "endOffset": 5263
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3601,
-                        "endColumn": 119,
-                        "endOffset": 3716
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5268,
-                    "endColumn": 112,
-                    "endOffset": 5376
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3721,
-                        "endColumn": 112,
-                        "endOffset": 3829
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5381,
-                    "endColumn": 184,
-                    "endOffset": 5561
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3834,
-                        "endColumn": 184,
-                        "endOffset": 4014
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5566,
-                    "endColumn": 128,
-                    "endOffset": 5690
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4019,
-                        "endColumn": 128,
-                        "endOffset": 4143
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 5695,
-                    "endColumn": 200,
-                    "endOffset": 5891
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4148,
-                        "endColumn": 200,
-                        "endOffset": 4344
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 5896,
-                    "endColumn": 135,
-                    "endOffset": 6027
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4349,
-                        "endColumn": 135,
-                        "endOffset": 4480
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 6032,
-                    "endColumn": 185,
-                    "endOffset": 6213
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4485,
-                        "endColumn": 185,
-                        "endOffset": 4666
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6218,
-                    "endColumn": 89,
-                    "endOffset": 6303
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4671,
-                        "endColumn": 89,
-                        "endOffset": 4756
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6308,
+                    "startOffset": 4529,
                     "endColumn": 95,
-                    "endOffset": 6399
+                    "endOffset": 4620
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 4761,
+                        "startOffset": 2960,
                         "endColumn": 95,
-                        "endOffset": 4852
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6404,
-                    "endColumn": 109,
-                    "endOffset": 6509
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 4857,
-                        "endColumn": 109,
-                        "endOffset": 4962
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6514,
-                    "endColumn": 60,
-                    "endOffset": 6570
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1583,
-                        "endColumn": 60,
-                        "endOffset": 1639
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\res\\merged\\debug\\values-mr\\values-mr.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 139,
-                    "endOffset": 240
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 139,
-                        "endOffset": 190
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 245,
-                    "endColumn": 110,
-                    "endOffset": 351
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 195,
-                        "endColumn": 110,
-                        "endOffset": 301
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 356,
-                    "endColumn": 115,
-                    "endOffset": 467
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 306,
-                        "endColumn": 115,
-                        "endOffset": 417
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 95,
-                    "endOffset": 563
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 422,
-                        "endColumn": 95,
-                        "endOffset": 513
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 568,
-                    "endColumn": 66,
-                    "endOffset": 630
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 518,
-                        "endColumn": 66,
-                        "endOffset": 580
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 635,
-                    "endColumn": 68,
-                    "endOffset": 699
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 585,
-                        "endColumn": 68,
-                        "endOffset": 649
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 704,
-                    "endColumn": 63,
-                    "endOffset": 763
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 654,
-                        "endColumn": 63,
-                        "endOffset": 713
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 768,
-                    "endColumn": 73,
-                    "endOffset": 837
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 718,
-                        "endColumn": 73,
-                        "endOffset": 787
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 842,
-                    "endColumn": 75,
-                    "endOffset": 913
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 792,
-                        "endColumn": 75,
-                        "endOffset": 863
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 918,
-                    "endColumn": 89,
-                    "endOffset": 1003
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 868,
-                        "endColumn": 89,
-                        "endOffset": 953
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1008,
-                    "endColumn": 77,
-                    "endOffset": 1081
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 958,
-                        "endColumn": 77,
-                        "endOffset": 1031
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1086,
-                    "endColumn": 77,
-                    "endOffset": 1159
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1036,
-                        "endColumn": 77,
-                        "endOffset": 1109
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1164,
-                    "endColumn": 88,
-                    "endOffset": 1248
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1114,
-                        "endColumn": 88,
-                        "endOffset": 1198
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1253,
-                    "endColumn": 101,
-                    "endOffset": 1350
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1203,
-                        "endColumn": 101,
-                        "endOffset": 1300
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1355,
-                    "endColumn": 63,
-                    "endOffset": 1414
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1305,
-                        "endColumn": 63,
-                        "endOffset": 1364
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1419,
-                    "endColumn": 70,
-                    "endOffset": 1485
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1369,
-                        "endColumn": 70,
-                        "endOffset": 1435
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1490,
-                    "endColumn": 142,
-                    "endOffset": 1628
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1440,
-                        "endColumn": 142,
-                        "endOffset": 1578
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1633,
-                    "endColumn": 258,
-                    "endOffset": 1887
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 258,
-                        "endOffset": 577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1892,
-                    "endColumn": 126,
-                    "endOffset": 2014
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 582,
-                        "endColumn": 126,
-                        "endOffset": 704
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2019,
-                    "endColumn": 195,
-                    "endOffset": 2210
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 709,
-                        "endColumn": 195,
-                        "endOffset": 900
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2215,
-                    "endColumn": 125,
-                    "endOffset": 2336
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 905,
-                        "endColumn": 125,
-                        "endOffset": 1026
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2341,
-                    "endColumn": 123,
-                    "endOffset": 2460
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1031,
-                        "endColumn": 123,
-                        "endOffset": 1150
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2465,
-                    "endColumn": 204,
-                    "endOffset": 2665
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1155,
-                        "endColumn": 204,
-                        "endOffset": 1355
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2670,
-                    "endColumn": 208,
-                    "endOffset": 2874
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1360,
-                        "endColumn": 208,
-                        "endOffset": 1564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2879,
-                    "endColumn": 122,
-                    "endOffset": 2997
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 122,
-                        "endOffset": 1687
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 3002,
-                    "endColumn": 185,
-                    "endOffset": 3183
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1692,
-                        "endColumn": 185,
-                        "endOffset": 1873
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3188,
-                    "endColumn": 117,
-                    "endOffset": 3301
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1878,
-                        "endColumn": 117,
-                        "endOffset": 1991
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3306,
-                    "endColumn": 167,
-                    "endOffset": 3469
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1996,
-                        "endColumn": 167,
-                        "endOffset": 2159
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3474,
-                    "endColumn": 120,
-                    "endOffset": 3590
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2164,
-                        "endColumn": 120,
-                        "endOffset": 2280
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3595,
-                    "endColumn": 128,
-                    "endOffset": 3719
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2285,
-                        "endColumn": 128,
-                        "endOffset": 2409
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3724,
-                    "endColumn": 187,
-                    "endOffset": 3907
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2414,
-                        "endColumn": 187,
-                        "endOffset": 2597
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3912,
-                    "endColumn": 149,
-                    "endOffset": 4057
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2602,
-                        "endColumn": 149,
-                        "endOffset": 2747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4062,
-                    "endColumn": 172,
-                    "endOffset": 4230
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2752,
-                        "endColumn": 172,
-                        "endOffset": 2920
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4235,
-                    "endColumn": 130,
-                    "endOffset": 4361
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2925,
-                        "endColumn": 130,
                         "endOffset": 3051
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4366,
-                    "endColumn": 173,
-                    "endOffset": 4535
+                    "startOffset": 4625,
+                    "endColumn": 109,
+                    "endOffset": 4730
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3056,
-                        "endColumn": 173,
-                        "endOffset": 3225
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 4540,
-                    "endColumn": 122,
-                    "endOffset": 4658
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.0\\res\\values-mr\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3230,
-                        "endColumn": 122,
-                        "endOffset": 3348
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4663,
-                    "endColumn": 236,
-                    "endOffset": 4895
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 323,
-                        "endColumn": 236,
-                        "endOffset": 555
+                        "startOffset": 3056,
+                        "endColumn": 109,
+                        "endOffset": 3161
                     }
                 }
             },
@@ -1645,227 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4900,
-                    "endColumn": 247,
-                    "endOffset": 5143
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3353,
-                        "endColumn": 247,
-                        "endOffset": 3596
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5148,
-                    "endColumn": 119,
-                    "endOffset": 5263
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3601,
-                        "endColumn": 119,
-                        "endOffset": 3716
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5268,
-                    "endColumn": 112,
-                    "endOffset": 5376
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3721,
-                        "endColumn": 112,
-                        "endOffset": 3829
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5381,
-                    "endColumn": 184,
-                    "endOffset": 5561
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3834,
-                        "endColumn": 184,
-                        "endOffset": 4014
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5566,
-                    "endColumn": 128,
-                    "endOffset": 5690
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4019,
-                        "endColumn": 128,
-                        "endOffset": 4143
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 5695,
-                    "endColumn": 200,
-                    "endOffset": 5891
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4148,
-                        "endColumn": 200,
-                        "endOffset": 4344
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 5896,
-                    "endColumn": 135,
-                    "endOffset": 6027
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4349,
-                        "endColumn": 135,
-                        "endOffset": 4480
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 6032,
-                    "endColumn": 185,
-                    "endOffset": 6213
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4485,
-                        "endColumn": 185,
-                        "endOffset": 4666
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6218,
-                    "endColumn": 89,
-                    "endOffset": 6303
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4671,
-                        "endColumn": 89,
-                        "endOffset": 4756
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6308,
-                    "endColumn": 95,
-                    "endOffset": 6399
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4761,
-                        "endColumn": 95,
-                        "endOffset": 4852
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6404,
-                    "endColumn": 109,
-                    "endOffset": 6509
-                },
-                "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-mr\\values.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 4857,
-                        "endColumn": 109,
-                        "endOffset": 4962
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6514,
+                    "startOffset": 4735,
                     "endColumn": 60,
-                    "endOffset": 6570
+                    "endOffset": 4791
                 },
                 "from": {
-                    "file": "C:\\Users\\julio\\Documents\\Workspace\\AndroidStudioProjects\\maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.11.0\\res\\values-mr\\values-mr.xml",
+                    "file": "C:\\Users\\julio\\workspace\\AndroidStudioProjects\\Maracuja\\ContadorJa\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.14.1\\res\\values-mr\\values-mr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1583,
+                        "startOffset": 1622,
                         "endColumn": 60,
-                        "endOffset": 1639
+                        "endOffset": 1678
                     }
                 }
             }
